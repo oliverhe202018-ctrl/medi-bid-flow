@@ -43,7 +43,7 @@ node -v && npm -v
 # 克隆项目
 green "4. 克隆项目..."
 cd /opt
-git clone https://github.com/yourusername/medi-bid-flow.git
+git clone https://github.com/oliverhe202018-ctrl/medi-bid-flow.git
 target_dir="/opt/medi-bid-flow"
 cd "$target_dir"
 
